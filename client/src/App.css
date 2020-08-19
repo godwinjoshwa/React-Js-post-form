@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+
+nav i {
+  color: white;
+  font-size: 32px
+}
+nav p{
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+  padding-left: 20px;
+ 
+}
+
+.form-container{
+  height: 10vh;
+  width: 100%;
+}
+.form{
+  margin: auto;
+  width: 400px;
+  padding: 15px;
+  max-width: 100%;
+  padding: 15px;
+}
+.heading {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 24px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+.form .form-control{
+  font-size: 15px;
+  min-height: 48px;
+  font-weight: 500;
+  border: 2px solid;
+}
+
+.form .radio-inline{
+  margin-left: 10px;
+  font-weight: normal
+}
+label{
+  text-align: left;
+  font-weight: bold;
+}
+.btn-lg{
+  margin-bottom: 20px;
+  font-weight: bold
+}
+.card{
+  background-image: url("https://image.freepik.com/free-vector/black-blue-techno-corporate-business-background-design-template_8306-238.jpg");
+  width: 30rem;
+  /* border: 12px solid rgba(165, 19, 165, 0.623); */
+  margin:22px;
+  flex-direction: row;
+  padding-left: 15px;
+  color: white;
+  text-align: center;
+  
+}
+.card-title {
+  text-align: center;
+  font-family: 'Electrolize', sans-serif;
+}
+.card-text {
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+
+}
+.card-content {
+  margin-left: 18px;
+  font-family: 'Times New Roman', Times, serif;
+ 
+}
